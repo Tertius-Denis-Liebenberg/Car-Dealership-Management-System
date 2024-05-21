@@ -1,0 +1,19 @@
+Personal Information.
+---------------------------------------------------------------------
+Fullnames: Tertius Liebenberg
+ID Number: 0215655485672
+Cell Number: 0256484658
+Gender: 
+Ocuupation: Accounting
+Home Address: 2 Palm st
+Work Address: 2 Palm st
+Gross Pay: 15000
+Net Pay: 15800
+Valid Licese: 
+Model: 
+
+Next of kin Information.
+---------------------------------------------------------------------
+Fullnames: Denis Liebenberg
+ID Number: 0658859325
+ID Number: Brother
